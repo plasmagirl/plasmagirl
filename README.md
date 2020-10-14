@@ -1,6 +1,6 @@
 ![ ](IMG_560343489E9D-1.jpeg)
 
-Hi, I'm Neha. I am an Electrical Engineer turned Data Scientist. I love working with Data in Python. 
+Hi, I'm Neha. I am an Electrical Engineer turned Data Scientist. I love tinkering with Data in Python. 
 
 - 🔭 I’m currently spending my time applying for jobs and working on my portfolio.
 - 🌱 I’m currently reading Python Machine Learning by Sebastian Raschka. Also learning Tableau. 
