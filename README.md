@@ -14,8 +14,8 @@ Hi, I'm Neha. I am an Electrical Engineer turned Data Scientist. I love tinkerin
 </a>
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: My username is derived from the word <b>plasmon</b> which was my dissertation topic in grad school. 
-- :cookie: Hobbies: I love to bake! My favorite is Scottish Shortbread cookies. They are so easy to make and yet so so so delicious.:yum: <br>I am also trying to learn Kashmiri (its one of the regional languages of India. Ask me why.:smiley:)
+- ⚡ Fun fact: My username is a play on the word <b>plasmon</b> which was my dissertation topic in grad school. 
+- :cookie: Hobbies: I love to bake! My favorite is the Scottish Shortbread. They are so easy to make and yet so so delicious.:yum: <br>
 
 
 
