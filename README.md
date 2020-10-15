@@ -12,7 +12,6 @@ Hi, I'm Neha. I am an Electrical Engineer turned Data Scientist. I love tinkerin
 </a><a target="_blank" href="https://www.linkedin.com/in/neha-nehru-1513a84/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My username is a play on the word <b>plasmon</b> which was my dissertation topic in grad school. 
 - :cookie: Hobbies: I love to bake! My favorite is the Scottish Shortbread. They are so easy to make and yet so so delicious.:yum: <br>
